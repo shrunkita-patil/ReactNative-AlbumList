@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/rikenshah/Documents/React\ native/SampleApp/node_modules/react-native/React/Modules/RCTAlertManager.m \
+  /Users/rikenshah/Documents/React\ native/SampleApp/ios/Pods/Target\ Support\ Files/React-Core/React-Core-prefix.pch \
+  /Users/rikenshah/Documents/React\ native/SampleApp/node_modules/react-native/React/Modules/RCTAlertManager.h \
+  /Users/rikenshah/Documents/React\ native/SampleApp/ios/Pods/Headers/Private/React-Core/React/RCTBridgeModule.h \
+  /Users/rikenshah/Documents/React\ native/SampleApp/ios/Pods/Headers/Private/React-Core/React/RCTDefines.h \
+  /Users/rikenshah/Documents/React\ native/SampleApp/ios/Pods/Headers/Private/React-Core/React/RCTInvalidating.h \
+  /Users/rikenshah/Documents/React\ native/SampleApp/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/rikenshah/Documents/React\ native/SampleApp/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/rikenshah/Documents/React\ native/SampleApp/ios/Pods/Headers/Private/React-Core/React/RCTAnimationType.h \
+  /Users/rikenshah/Documents/React\ native/SampleApp/ios/Pods/Headers/Private/React-Core/React/RCTBorderStyle.h \
+  /Users/rikenshah/Documents/React\ native/SampleApp/ios/Pods/Headers/Private/React-Core/React/RCTLog.h \
+  /Users/rikenshah/Documents/React\ native/SampleApp/ios/Pods/Headers/Private/React-Core/React/RCTAssert.h \
+  /Users/rikenshah/Documents/React\ native/SampleApp/ios/Pods/Headers/Private/React-Core/React/RCTUtils.h \
+  /Users/rikenshah/Documents/React\ native/SampleApp/ios/Pods/Headers/Private/React-Core/React/RCTPointerEvents.h \
+  /Users/rikenshah/Documents/React\ native/SampleApp/ios/Pods/Headers/Private/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/rikenshah/Documents/React\ native/SampleApp/ios/Pods/Headers/Private/yoga/Yoga.h \
+  /Users/rikenshah/Documents/React\ native/SampleApp/ios/Pods/Headers/Private/yoga/YGEnums.h \
+  /Users/rikenshah/Documents/React\ native/SampleApp/ios/Pods/Headers/Private/yoga/YGMacros.h \
+  /Users/rikenshah/Documents/React\ native/SampleApp/ios/Pods/Headers/Private/yoga/YGValue.h \
+  /Users/rikenshah/Documents/React\ native/SampleApp/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/rikenshah/Documents/React\ native/SampleApp/node_modules/react-native/React/Base/RCTUtils.h
